@@ -7,5 +7,6 @@ namespace MyWEbApp.Models
 {
     public class Home
     {
+        int abc;
     }
 }
